@@ -2,10 +2,10 @@
   
   <h1 align="center">ceadoor / index</h1>
 
-<p align="center"><a href="http://cea.ac.in" title="ceadoor"><img src="https://github.com/ceadoor/cea.ac.in/raw/master/src/assets/Logo%20Redesign/PNG%201080P.png" alt="ceadoor logo" width="300" /></a></p>
+<p align="center"><a href="http://cea.ac.in" title="ceadoor"><img src="https://github.com/ceadoor/cea.ac.in/raw/master/src/assets/LOGO/ceadoor-PNG.png" alt="ceadoor logo" width="300" /></a></p>
 
  <a href="https://github.com/ceadoor?tab=repositories">
-    <img src="https://img.shields.io/badge/repositories-15-lightgrey.svg" alt="repositories" />
+    <img src="https://img.shields.io/badge/repositories-13-lightgrey.svg" alt="repositories" />
  </a>
  
  <a href="https://github.com/ceadoor/index/issues/new">
