@@ -9,7 +9,7 @@
  </a>
  
  <a href="https://github.com/ceadoor/index/issues/new">
-    <img src="https://img.shields.io/badge/contributions-welcome-red.svg" alt="contributions-welcome" />
+    <img src="https://img.shields.io/badge/PRs-welcome-red.svg" alt="contributions-welcome" />
  </a>
 
 #### Follow us
