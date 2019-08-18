@@ -22,10 +22,17 @@
 
 ---
 
+## [→ Team Astra Website](https://github.com/ceadoor/teamastracea.in) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)](https://github.com/ceadoor/teamastracea.in/commits/master)
+Website for Team Astra of College of Engineering Adoor.
+#### Top Languages and frameworks used
+→ html5 → sass → js → bootstrap4 → webpack → yarn → node.js
+
+---
+
 ## [→ CEA Website](https://github.com/ceadoor/cea.ac.in) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)](https://github.com/ceadoor/cea.ac.in/commits/master)
 Website for College of Engineering Adoor, rebuilt from scratch. 
 #### Top Languages and frameworks used
-→ html5 → css3 → js → bootstrap4 → webpack → npm → node.js → sass
+→ html5 → sass → js → bootstrap4 → webpack → npm → node.js
 
 ---
 
