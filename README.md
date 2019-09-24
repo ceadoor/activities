@@ -14,7 +14,7 @@
 
 #### Follow us
 
-| 🖥 [Website](https://ceadoor.github.io/cea.ac.in/) | 💬 [Slack](https://ceadoor.slack.com/) | 📷 [Instagram](https://www.instagram.com/tracecea?r=nametag) |
+| 🖥 [Website](https://ceadoor.netlify.com/) | 💬 [Slack](https://ceadoor.slack.com/) | 📷 [Instagram](https://www.instagram.com/tracecea) |
 
 ### List of the projects going under this organisation's activities.
 
@@ -73,8 +73,6 @@ Website for the NPCCC-17 Conference for various professionals, industrialists, r
 ## Support the projects ⭐
 
 If you feel awesome and want to support us in a small way, please consider starring and sharing the repos! This helps us getting known and grow the community. 🙏
-
-<img alt="Botpress" width="250" src="https://github.com/abhijithvijayan/__test/blob/342498e6212fdc41f4e99b1940ab30a64a99fef7/star_us.gif?raw=true">
 
 ## Wanna contribute or have some Ideas?
 
