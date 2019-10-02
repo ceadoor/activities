@@ -70,6 +70,13 @@ Online game build on Node JS that was created as a part of Aaroh18, annual techf
 
 ---
 
+## [→ library_management_ci](https://github.com/ceadoor/library_management_ci) [![Status: Complete](https://img.shields.io/badge/status-complete-blue.svg)](https://github.com/ceadoor/AR-TreasureHunt/commits/master)
+A simple library management application 
+#### Language and tools used
+→ Javascript → PHP → Bootstrap
+
+---
+
 ## [→ NPCCC-17 Website](https://github.com/ceadoor/NPCCC-17) [![Status: Complete](https://img.shields.io/badge/status-complete-blue.svg)](https://github.com/ceadoor/NPCCC-17/commits/master)
 Website for the NPCCC-17 Conference for various professionals, industrialists, researchers, students and academicians.
 #### Top Languages and frameworks used
