@@ -70,7 +70,7 @@ Online game build on Node JS that was created as a part of Aaroh18, annual techf
 
 ---
 
-## [→ library_management_ci](https://github.com/ceadoor/library_management_ci) [![Status: Complete](https://img.shields.io/badge/status-complete-blue.svg)](https://github.com/ceadoor/AR-TreasureHunt/commits/master)
+## [→ library_management_ci](https://github.com/ceadoor/library_management_ci) [![Status: Complete](https://img.shields.io/badge/status-complete-blue.svg)](https://github.com/ceadoor/library_management_ci/commits/master)
 A simple library management application 
 #### Language and tools used
 → Javascript → PHP → Bootstrap
