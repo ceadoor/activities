@@ -14,7 +14,7 @@
 
 #### Follow us
 
-| 🖥 [Website](https://ceadoor.netlify.com/) | 💬 [Slack](https://ceadoor.slack.com/) | 📷 [Instagram](https://www.instagram.com/tracecea) |
+| 🖥 [Website](https://ceadoor.netlify.com/) | 💬 [Slack](https://kutt.it/trace-slack) | 📷 [Instagram](https://www.instagram.com/tracecea) |
 
 ### List of the projects going under this organisation's activities.
 
