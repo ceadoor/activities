@@ -22,10 +22,10 @@
 
 ---
 
-## [→ IEDC CEA WEBSITE](https://github.com/ceadoor/iedc-website) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)](https://github.com/ceadoor/iedc-website/commits/master)
+## [→ IEDC CEA Website](https://github.com/ceadoor/iedc-website) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)](https://github.com/ceadoor/iedc-website/commits/master)
 Website for IEDC CEA .
 #### Top Languages and frameworks used
-→ HTML  → css
+→ HTML  → sass → js
 
 ---
 
