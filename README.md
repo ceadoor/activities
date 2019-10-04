@@ -49,6 +49,12 @@ Website for College of Engineering Adoor, rebuilt from scratch.
 → html5 → sass → js → bootstrap4 → webpack → npm
 
 ---
+## [→ Glitch 2.0](https://github.com/ceadoor/glitch-2.0) [![Status: Complete](https://img.shields.io/badge/status-complete-blue.svg)](https://github.com/ceadoor/glitch-2.0/commits/master)
+Online sea maze game done for AAROH 19 
+#### Top Languages and frameworks used
+→ Express → Passport.js → MongoDB → Pug 
+
+---
 
 ## [→ TRACE-CEA Website](https://github.com/ceadoor/trace.cea.ac.in) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)](https://github.com/ceadoor/trace.cea.ac.in/commits/master)
 Website for TRACE, a student organisation for CSE students of CEA, built from scratch. (ongoing)
