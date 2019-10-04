@@ -22,8 +22,15 @@
 
 ---
 
-## [→ Hacktoberfest Registration Website](https://github.com/ceadoor/hacktoberfest-website-2019) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)](https://github.com/ceadoor/hacktoberfest-website-2019/commits/master)
+## [→ IEDC CEA WEBSITE](https://github.com/ceadoor/iedc-website) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)](https://github.com/ceadoor/iedc-website/commits/master)
 Website for Hacktoberfest event of 2019.
+#### Top Languages and frameworks used
+→ HTML  → css
+
+---
+
+## [→ Hacktoberfest Registration Website](https://github.com/ceadoor/hacktoberfest-website-2019) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)]
+Website for IEDC CEA .
 #### Top Languages and frameworks used
 → React.js → express → sass → React-bootstrap → yarn
 
