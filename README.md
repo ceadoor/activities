@@ -5,7 +5,7 @@
 <p align="center"><a href="http://cea.ac.in" title="ceadoor"><img src="https://github.com/ceadoor/cea.ac.in/raw/master/src/assets/LOGO/ceadoor-PNG.png" alt="ceadoor logo" width="300" /></a></p>
 
  <a href="https://github.com/ceadoor?tab=repositories">
-    <img src="https://img.shields.io/badge/repositories-13-lightgrey.svg" alt="repositories" />
+    <img src="https://img.shields.io/badge/repositories-31-lightgrey.svg" alt="repositories" />
  </a>
  
  <a href="https://github.com/ceadoor/index/issues/new">
@@ -14,7 +14,7 @@
 
 #### Follow us
 
-| 🖥 [Website](https://ceadoor.netlify.com/) | 💬 [Slack](https://kutt.it/trace-slack) | 📷 [Instagram](https://www.instagram.com/tracecea) |
+| 🖥 [Website](https://tracecea.co/) | 💬 [Slack](https://kutt.it/trace-slack) | 📷 [Instagram](https://www.instagram.com/tracecea) |
 
 ### List of the projects going under this organisation's activities.
 
@@ -29,7 +29,7 @@ Website for IEDC CEA .
 
 ---
 
-## [→ Hacktoberfest Registration Website](https://github.com/ceadoor/hacktoberfest-website-2019) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)](https://github.com/ceadoor/hacktoberfest-website-2019/commits/master)
+## [→ Hacktoberfest Registration Website](https://github.com/ceadoor/hacktoberfest-website-2019) [![Status: Complete](https://img.shields.io/badge/status-complete-blue.svg)](https://github.com/ceadoor/hacktoberfest-website-2019/commits/master)
 Website for Hacktoberfest event of 2019.
 #### Top Languages and frameworks used
 → React.js → express → sass → React-bootstrap → yarn
