@@ -2,7 +2,7 @@
   
   <h1 align="center">ceadoor / index</h1>
 
-<p align="center"><a href="http://cea.ac.in" title="ceadoor"><img src="https://github.com/ceadoor/cea.ac.in/raw/master/src/assets/LOGO/ceadoor-PNG.png" alt="ceadoor logo" width="300" /></a></p>
+<p align="center"><a href="http://cea.ac.in" title="ceadoor"><img src="https://github.com/ceadoor/cea.ac.in/raw/master/src/assets/LOGO/ceadoor-PNG.png" alt="ceadoor logo" width="250" /></a></p>
 
  <a href="https://github.com/ceadoor?tab=repositories">
     <img src="https://img.shields.io/badge/repositories-31-lightgrey.svg" alt="repositories" />
@@ -14,11 +14,19 @@
 
 #### Follow us
 
-| 🖥 [Website](https://tracecea.co/) | 💬 [Slack](https://kutt.it/trace-slack) | 📷 [Instagram](https://www.instagram.com/tracecea) |
+| 🖥 [Website](https://tracecea.co/) | 💬 [Slack](https://kutt.it/trace-slack) | ✉️ [Facebook](https://www.facebook.com/tracecea/) | | 📷 [Instagram](https://www.instagram.com/tracecea) |
 
 ### List of the projects going under this organisation's activities.
 
 </div>
+
+---
+
+## [→ URL Shortener](https://github.com/ceadoor/url-shortener) [![Status: Complete](https://img.shields.io/badge/status-complete-blue.svg)](https://github.com/ceadoor/url-shortener/commits/master)
+Simple URL Shortener for TRACECEA
+#### Top Languages and frameworks used
+→ Netlify
+
 
 ---
 
@@ -33,6 +41,13 @@ Website for IEDC CEA .
 Website for Hacktoberfest event of 2019.
 #### Top Languages and frameworks used
 → React.js → express → sass → React-bootstrap → yarn
+
+---
+
+## [→ Registration Verifier App](https://github.com/ceadoor/event-verifier-qr-app) [![Status: Complete](https://img.shields.io/badge/status-complete-blue.svg)](https://github.com/ceadoor/event-verifier-qr-app/commits/master)
+ App for Verifying QR Code of Event Registrations 
+#### Top Languages and frameworks used
+→ Flutter → Dart
 
 ---
 
