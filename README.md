@@ -112,6 +112,13 @@ Website for the NPCCC-17 Conference for various professionals, industrialists, r
 
 ---
 
+## [→ HacktoberFest-2020](https://github.com/ceadoor/HacktoberFest-2020) [![Status: Ongoing](https://img.shields.io/badge/status-ongoing-green.svg)](https://github.com/ceadoor/HacktoberFest-2020/commits/main)
+A library to maintain basic programming languages code snippets.
+#### Languages used
+→ C → C++ → js → py → java → php → rb → r → go
+
+---
+
 ## Support the projects ⭐
 
 If you feel awesome and want to support us in a small way, please consider starring and sharing the repos! This helps us getting known and grow the community. 🙏
